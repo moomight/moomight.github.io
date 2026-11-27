@@ -4,14 +4,6 @@ title: about
 permalink: /
 subtitle: PhD Student @ <a href="https://www.ucas.ac.cn/">UCAS</a> · Agentic AI, RSI & AI4S
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>University of Chinese Academy of Sciences</p>
-    <p>Beijing, China</p>
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -28,7 +20,7 @@ latest_posts:
 
 I am a PhD student in Computer Application Technology at the **University of Chinese Academy of Sciences (UCAS)** and was previously a Research Intern in the **System Group at Microsoft Research Asia**. My research focuses on **Agentic AI**, **Recursive Self-Improvement (RSI / agent optimization)**, and **AI for Science (AI4S)** (especially in medicine and bioinformatics).
 
-I speak Mandarin (native), English, and some Japanese (JLPT N2). Outside of research, I love music—especially classical music and J-pop—and often spend my free time playing the piano and singing.
+I speak Mandarin (native), English, and some Japanese (JLPT N2). Outside of research, I love music (especially classical music and J-pop) and often spend my free time playing the piano and singing.
 
 ---
 
