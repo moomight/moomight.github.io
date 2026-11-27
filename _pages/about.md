@@ -34,7 +34,8 @@ I speak Mandarin (native), English, and some Japanese (JLPT N2). Outside of rese
 
 ### Internship
 
-**Microsoft Research Asia (MSRA)** · *Research Intern, System Group (Shanghai)* · *Sep 2025 – Aug 2026*
+**Microsoft Research Asia (MSRA)** · _Research Intern, System Group (Shanghai)_ · _Sep 2025 – Aug 2026_
+
 - Focused on **LLM Agent Optimization**, including macro-to-micro bottleneck localization for long-horizon agents (**TracePrism**), hosted-agent optimization, and automated plugin generation for coding agents.
 
 ---
@@ -43,4 +44,4 @@ I speak Mandarin (native), English, and some Japanese (JLPT N2). Outside of rese
 
 - **ICPC**: Bronze Medal — 2021 Shaanxi National Invitational, 2020 Asia Yinchuan Regional; Honorable Mention — 2020 Asia Macau Regional (30th place), 2019 Asia-East Continent Final
 - **CCPC**: Bronze Medal — 2020 WFinal; Honorable Mention — 2020 Mianyang
-- **Blue Bridge Cup**: Third Prize — 3rd National Software Engineering Design Contest Finals *(2020)*
+- **Blue Bridge Cup**: Third Prize — 3rd National Software Engineering Design Contest Finals _(2020)_
